@@ -9,8 +9,8 @@ Este repositório contém uma planilha com a atividade prática que realizei uti
 - **MAIOR**
 - **MENOR**
 
-## 🗂 Arquivo
-- Exercício_de_Soma_média_mínimo_máximo_maior_e_menor_github: contém os exercícios resolvidos.
+## 🗂 Arquivos
+- Exercício_de_Soma_média_mínimo_máximo_maior_e_menor_github
 
 ## 🎯 Objetivo
 Praticar o uso de fórmulas essenciais para análise de dados no Excel.
